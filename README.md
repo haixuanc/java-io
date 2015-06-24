@@ -1,4 +1,4 @@
-Small boilerplate Java classes to read stdin
+Simple boilerplate Java classes to read stdin
 
 ## Usages
 
