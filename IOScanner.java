@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Detailed `Scanner` class doc:
+// http://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
 public class IOScanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
